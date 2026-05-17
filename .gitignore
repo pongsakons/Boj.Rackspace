@@ -1,0 +1,9 @@
+.vs/
+Boj.RackSpace.Application/obj/
+Boj.RackSpace.Domain/bin/
+Boj.RackSpace.Application/bin/
+Boj.RackSpace.Domain/obj/
+Boj.Rackspace.Infrastructure/bin/
+Boj.Rackspace.Infrastructure/obj/
+src/Boj.Rackspace.Api/bin/
+src/Boj.Rackspace.Api/obj/
