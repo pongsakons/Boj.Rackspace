@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Boj.RackSpace.Application\Boj.RackSpace.Application.csproj" />
+    <ProjectReference Include="..\Boj.RackSpace.Domain\Boj.RackSpace.Domain.csproj" />
   </ItemGroup>
 
 </Project>

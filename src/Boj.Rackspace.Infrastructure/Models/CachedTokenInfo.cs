@@ -1,4 +1,4 @@
-namespace Boj.Rackspace.Infrastructure.Models
+﻿namespace Boj.Rackspace.Infrastructure.Models
 {
     /// <summary>
     /// Represents a cached RackSpace authentication token with expiration metadata.

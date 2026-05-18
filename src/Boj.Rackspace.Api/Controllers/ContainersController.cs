@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using static Boj.Rackspace.Infrastructure.Examples.TokenRefreshSystemExample;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Boj.Rackspace.Api.Controllers
 {
@@ -11,8 +9,6 @@ namespace Boj.Rackspace.Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            CacheReadExample cacheReadExample = new CacheReadExample();
-            cacheReadExample.DemonstrateCacheRead();
             return Ok(new[] { "Container1", "Container2", "Container3" });
         }
     }

@@ -7,3 +7,11 @@ Boj.Rackspace.Infrastructure/bin/
 Boj.Rackspace.Infrastructure/obj/
 src/Boj.Rackspace.Api/bin/
 src/Boj.Rackspace.Api/obj/
+src/Boj.RackSpace.Domain/bin/
+src/Boj.RackSpace.Domain/obj/
+src/Boj.Rackspace.Infrastructure/bin/
+src/Boj.Rackspace.Infrastructure/obj/
+test/Boj.Rackspace.UnitTest/bin/
+test/Boj.Rackspace.UnitTest/obj/
+src/Boj.RackSpace.Application/obj/
+src/Boj.RackSpace.Application/bin/
